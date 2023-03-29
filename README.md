@@ -1,1 +1,2 @@
-# K2LSchool
+# php-pdo-registration-system
+php-pdo-registration-system
